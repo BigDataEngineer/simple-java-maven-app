@@ -15,3 +15,5 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 testing CI on Jenkins on OracleCI lab
+testing again CI on Jenkins on OracleCI lab
+
